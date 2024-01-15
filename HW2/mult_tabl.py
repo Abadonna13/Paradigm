@@ -2,8 +2,7 @@
 # Код простой и короткий смысла заворачивать в процедуру нет.
 
 number = int(input ("Введите число: "))
-i = 1
-j = 1
+
 print ("Таблица умножения до: ", number)
 for x in range(1, number+1):
     for y in range(1, number + 1):
